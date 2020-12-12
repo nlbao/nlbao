@@ -1,25 +1,24 @@
-### Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <div align = 'right'>![profile_views](https://komarev.com/ghpvc/?username=nlbao&color=yellow)</div>
+### Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-<!--
-**nlbao/nlbao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+[<img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
+[<img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="ko-fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />][ko-fi]
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nlbao.nlbao)
+<br />
 
-- 🔭 I’m currently working on [nlbao/pocket_stats](https://github.com/nlbao/pocket_stats)
-- 🌱 I’m currently learning Quantum Computing
-- 👯 I’m looking to collaborate on Quantum Computing, Data Visualization and Web Development
+### My interests
+* Quantum Computing
+* Data Visualization
+* Web Development
+
+### What i am currently/done working on
+* [nlbao/pocket_stats](https://github.com/nlbao/pocket_stats): stats visualization for [Pocket](getpocket.com/).
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to fix "VipsJpeg: Premature end of JPEG file"](https://hiddentopia.com/posts/how-to-fix-vipsjpeg-premature-end-of-jpeg-file/)
 <!-- BLOG-POST-LIST:END -->
 [more blog posts...][blog]
-
-### How to reach me
-
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img align="left" alt="ko-fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />][ko-fi]
-<br />
 
 ### Technology Stack:
 
