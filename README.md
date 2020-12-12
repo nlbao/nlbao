@@ -9,6 +9,10 @@
 - 👯 I’m looking to collaborate on Quantum Computing, Data Visualization and Web Development
 - 📫 How to reach me: [@nlbao95](https://twitter.com/nlbao95)
 
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--github stats cards from https://github.com/anuraghazra/github-readme-stats -->
 <a href="https://github.com/nlbao/nlbao">
   <img align="center" src="https://github-readme-stats.nlbao.vercel.app/api?username=nlbao&show_icons=true&count_private=true&hide_title=true" />
