@@ -11,6 +11,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to fix "VipsJpeg: Premature end of JPEG file"](https://hiddentopia.com/posts/how-to-fix-vipsjpeg-premature-end-of-jpeg-file/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--github stats cards from https://github.com/anuraghazra/github-readme-stats -->
