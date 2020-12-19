@@ -7,12 +7,15 @@
 <br />
 
 ### My interests
-* Quantum Computing
-* Data Visualization
+* [Quantum Computing](https://nlbao.netlify.app/tags/quantum/)
+* Data Platforms
 * Web Development
 
-### What i am currently/done working on
+### Projects
 * [nlbao/pocket_stats](https://github.com/nlbao/pocket_stats): stats visualization for [Pocket](getpocket.com/).
+
+### Contributions
+* [google/eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog/pulls?q=is%3Apr+author%3Anlbao+).
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
