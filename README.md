@@ -19,7 +19,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Quantum Computing Ultralearning (QCUL) challenge](https://nlbao.netlify.app/posts/quantum-computing-ultralearning-challenge/)
+- [Quantum Computing Ultralearning challenge](https://nlbao.netlify.app/posts/quantum-computing-ultralearning-challenge/)
+- [Quantum Computing Ultralearning - Week 1: Maths](https://nlbao.netlify.app/posts/quantum-computing-ultralearning-week01/)
 - [Why Quantum Computing?](https://nlbao.netlify.app/posts/why-quantum/)
 - [How to fix "VipsJpeg: Premature end of JPEG file"](https://nlbao.netlify.app/posts/how-to-fix-vipsjpeg-premature-end-of-jpeg-file/)
 <!-- BLOG-POST-LIST:END -->
