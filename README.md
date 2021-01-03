@@ -1,15 +1,15 @@
-### Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
-
-[<img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
-[<img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="ko-fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />][ko-fi]
+[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" />][blog]
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=nlbao.nlbao)
+
+[<img align="left" alt="nlbao's twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
+[<img align="left" alt="nlbao's linkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="nlbao's ko-fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />][ko-fi]
 <br />
 
 ### My interests
-* [Quantum Computing](https://nlbao.netlify.app/tags/quantum/)
-* Data Platforms
-* Web Development
+* Quantum Computing. Check out my [Quantum Computing Ultralearning challenge](https://nlbao.netlify.app/posts/2020/quantum-computing-ultralearning-challenge/).
+* Data Platforms.
+* Distributed System.
 
 ### Projects
 * [nlbao/pocket_stats](https://github.com/nlbao/pocket_stats): stats visualization for [Pocket](getpocket.com/).
