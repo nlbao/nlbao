@@ -19,12 +19,12 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Quantum Computing Ultralearning - Week 2: Overview](https://nlbao.netlify.app/posts/2021/quantum-computing-ultralearning-week02-overview/)
-- [Quantum Computing Ultralearning challenge](https://nlbao.netlify.app/posts/2020/quantum-computing-ultralearning-challenge/)
-- [Quantum Computing Ultralearning - Week 1: Articles summary](https://nlbao.netlify.app/posts/2020/quantum-computing-ultralearning-week01-articles-summary/)
-- [Quantum Computing Ultralearning - Week 1: Maths](https://nlbao.netlify.app/posts/2020/quantum-computing-ultralearning-week01-maths/)
-- [Why Quantum Computing?](https://nlbao.netlify.app/posts/2020/why-quantum/)
-- [How to fix "VipsJpeg: Premature end of JPEG file"](https://nlbao.netlify.app/posts/2020/how-to-fix-vipsjpeg-premature-end-of-jpeg-file/)
+- [Quantum Computing Ultralearning - Week 2: Overview](https://nlbao.page/posts/2021/quantum-computing-ultralearning-week02-overview/)
+- [Quantum Computing Ultralearning challenge](https://nlbao.page/posts/2020/quantum-computing-ultralearning-challenge/)
+- [Quantum Computing Ultralearning - Week 1: Articles summary](https://nlbao.page/posts/2020/quantum-computing-ultralearning-week01-articles-summary/)
+- [Quantum Computing Ultralearning - Week 1: Maths](https://nlbao.page/posts/2020/quantum-computing-ultralearning-week01-maths/)
+- [Why Quantum Computing?](https://nlbao.page/posts/2020/why-quantum/)
+- [How to fix "VipsJpeg: Premature end of JPEG file"](https://nlbao.page/posts/2020/how-to-fix-vipsjpeg-premature-end-of-jpeg-file/)
 <!-- BLOG-POST-LIST:END -->
 [more blog posts...][blog]
 
