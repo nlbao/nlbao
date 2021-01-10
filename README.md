@@ -7,7 +7,7 @@
 <br />
 
 ### My interests
-* Quantum Computing. Check out my [Quantum Computing Ultralearning challenge](https://nlbao.netlify.app/posts/2020/quantum-computing-ultralearning-challenge/).
+* Quantum Computing. Check out my [Quantum Computing Ultralearning challenge](https://nlbao.page/posts/2020/quantum-computing-ultralearning-challenge/).
 * Data Platforms.
 * Distributed System.
 
@@ -49,4 +49,4 @@
 [linkedin]: https://www.linkedin.com/in/nlbao/
 [twitter]: https://twitter.com/nlbao95
 [ko-fi]: https://ko-fi.com/nlbao
-[blog]: https://nlbao.netlify.app
+[blog]: https://nlbao.page
