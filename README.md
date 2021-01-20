@@ -19,6 +19,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Quantum Computing Ultralearning - Week 3 & 4: Quantum Mechanics](https://nlbao.page/posts/2021/quantum-computing-ultralearning-week03-04-quantum-mechanics/)
 - [Quantum Computing Ultralearning - Week 2: Overview](https://nlbao.page/posts/2021/quantum-computing-ultralearning-week02-overview/)
 - [Quantum Computing Ultralearning challenge](https://nlbao.page/posts/2020/quantum-computing-ultralearning-challenge/)
 - [Quantum Computing Ultralearning - Week 1: Articles summary](https://nlbao.page/posts/2020/quantum-computing-ultralearning-week01-articles-summary/)
