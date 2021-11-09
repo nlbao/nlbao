@@ -20,11 +20,11 @@
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Quantum Computing Ultralearning - Week 8: Universal quantum computation](https://nlbao.page/posts/2021/quantum-computing-ultralearning-week08-universal-quantum-computation/)
-- [Quantum Computing Ultralearning - Week 7: Circuits & Simulation](https://nlbao.page/posts/2021/quantum-computing-ultralearning-week07-circuits-and-simulation/)
+- [Quantum Computing Ultralearning - Week 7: Circuits &amp; Simulation](https://nlbao.page/posts/2021/quantum-computing-ultralearning-week07-circuits-and-simulation/)
 - [Quantum Computing Ultralearning - Week 6: Gates](https://nlbao.page/posts/2021/quantum-computing-ultralearning-week06-gates/)
 - [How to set environment variables in Google App Engine using Cloud Build](https://nlbao.page/posts/2021/how-to-set-environment-variables-in-google-app-engine-using-cloud-build/)
 - [Quantum Computing Ultralearning - Week 5: Qubit](https://nlbao.page/posts/2021/quantum-computing-ultralearning-week05-qubit/)
-- [Quantum Computing Ultralearning - Week 3 & 4: Quantum Mechanics](https://nlbao.page/posts/2021/quantum-computing-ultralearning-week03-04-quantum-mechanics/)
+- [Quantum Computing Ultralearning - Week 3 &amp; 4: Quantum Mechanics](https://nlbao.page/posts/2021/quantum-computing-ultralearning-week03-04-quantum-mechanics/)
 - [Quantum Computing Ultralearning - Week 2: Overview](https://nlbao.page/posts/2021/quantum-computing-ultralearning-week02-overview/)
 <!-- BLOG-POST-LIST:END -->
 [more blog posts...][blog]
